@@ -6,7 +6,7 @@ from frame._app import app
           "DTD/xhtml1-frameset.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-  <title> epydoc </title>
+  <title> epydoc1 </title>
 </head>
 <frameset cols="20%,80%">
   <frameset rows="30%,70%">
